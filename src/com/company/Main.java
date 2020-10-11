@@ -8,6 +8,6 @@ public class Main {
           //      Проверка2456465
         System.exit(0);
 
-
+        System.exit(100);
     }
 }

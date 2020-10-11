@@ -10,5 +10,6 @@ public class Main {
 
         System.exit(20);
 
+        System.exit(100);
     }
 }

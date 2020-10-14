@@ -14,5 +14,6 @@ public class Main {
 
         String pull;
         String cherry;
+        String cherry2;
     }
 }

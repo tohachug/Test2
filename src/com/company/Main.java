@@ -13,5 +13,10 @@ public class Main {
         System.exit(100);
 
         String pull;
+
+        System.exit(100);
+
+        System.exit(200);
+
     }
 }
